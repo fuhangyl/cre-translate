@@ -1,6 +1,6 @@
 /* eslint-disable no-template-curly-in-string */
 export default {
-  App: 'Creality Cloud App',
+  App: 'Creality Cloud App 111111',
   Cancel: 'Cancel',
   CancelCollection: 'Remove from favorites',
   Collection: 'Favorite',
